@@ -1,0 +1,2 @@
+SQLite version: 3.45.0
+Output modes: box, column, csv, html, insert, json, line, list, markdown, quote, table, tabs
